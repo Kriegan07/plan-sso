@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plan-sso/static/css/main.72c58cff.css",
+    "main.js": "/plan-sso/static/js/main.7e20c1e6.js",
+    "static/js/453.b1d81963.chunk.js": "/plan-sso/static/js/453.b1d81963.chunk.js",
+    "index.html": "/plan-sso/index.html",
+    "main.72c58cff.css.map": "/plan-sso/static/css/main.72c58cff.css.map",
+    "main.7e20c1e6.js.map": "/plan-sso/static/js/main.7e20c1e6.js.map",
+    "453.b1d81963.chunk.js.map": "/plan-sso/static/js/453.b1d81963.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c58cff.css",
+    "static/js/main.7e20c1e6.js"
+  ]
+}
